@@ -13,4 +13,8 @@ As you can see we're using three different size rails:
     x1 MGN9-H for the Hotend (y-axis)
     x1 MGN15-H for the Gantry (z-axis)
 
+You could source the parts for this upgrade yourself however we'll also be offering this upgrade for around £79/$109 (exc. VAT and shipping). This would include the four linear rails and a set of the printed parts in PET-G, all fasteners and a fresh length of GT2 belt. We'd be selling these at pretty much cost price.
+
+Upgrade kit to be made available after we've tested and finalised the upgrade.
+
 ![AXIS 1.5 CAD](https://github.com/Makertech3D/AXIS/blob/master/Linear%20Rail%20Upgrade/Linear%20Rail%20Upgrade%20CAD.png)
