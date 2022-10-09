@@ -1,1 +1,1 @@
-The Linear Rail Upgrade is avaialble for purchase here: https://www.makertech3d.com/products/axis-linear-rail-upgrade?variant=30702280278147
+The Linear Rail Upgrade is unfortunately no longer available for sale. However you can self source the components for one with the BOM and STL. files (for the 3D printed parts) in this repo.
